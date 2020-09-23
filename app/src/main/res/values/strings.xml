@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Listado de Restaurantes</string>
+    <string name="hintPassword">Contraseña</string>
+    <string name="btnSaludo">Saludo</string>
+    <string name="btnSnackbar">Snack Bar</string>
+</resources>
